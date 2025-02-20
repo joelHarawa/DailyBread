@@ -9,7 +9,7 @@ in today's day and age. There is a lot of things that compete for our time and
 studying the Bible is put on the backburner.
 
 
-DailyBread is an app that looks to help users personalize their study,build
+DailyBread is an app that looks to help users personalize their study, build
 good Bible study habits, reflect on their study, and improve their overall
 Bible knowledge.
 
